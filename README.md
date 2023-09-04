@@ -3,4 +3,8 @@ A precision platformer set in a city reclaimed by nature. Written in C++ with th
 
 ![Demo](/Demo.gif?raw=true)
 
+### Level Editor
 ![EditorVisual](/EditorVisual.png?raw=true)
+
+### Initial Concept 
+![old_Demo](/old_Demo.gif?raw=true)
